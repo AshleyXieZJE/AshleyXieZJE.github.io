@@ -1,5 +1,5 @@
-# This is a heading
-## This is another (smaller) heading
+# Welcome!
+## This is Ashley's website
 
 - this is the beginning of a list
 - this is the next item in the list
